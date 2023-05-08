@@ -64,7 +64,7 @@ Experiment results for classification matrics
 | CNN+ Logistic Regression             | 0.264  | 0.779   | 0.919 | 20            |   4000            |
 | KNN                                  | 0.278  | 0.505   | 0.778 | 50            |   3000            |
 
-## Libraries:
+## Libraries(Dependencies)
 
 The dependencies required for this project can be found from the file 'dependencyConfirmation.txt':
 
