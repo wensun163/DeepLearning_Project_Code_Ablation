@@ -1,7 +1,7 @@
 README file for Ablation_Study_Codes
 
 # Deep Learning for Healthcare Final Project
-
+#CS 598 Deep Learning for Healthcare, Spring 2023
 
 ## Citation to the original paper
 This project aims at reproducing the paper 'Readmission prediction via deep contextual embedding of clinical concepts' and check if the reproducer can get similar results presented in the original paper:
